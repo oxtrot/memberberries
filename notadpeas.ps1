@@ -1,4 +1,4 @@
-Function Invoke-adPEAS {
+Function Notpeas {
 <#
 .SYNOPSIS
 Author: Alexander Sturz (@_61106960_)
